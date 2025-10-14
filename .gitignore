@@ -1,0 +1,12 @@
+# Ignore Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+
+# Ignore audio recordings and models
+data/
+model.pkl
+
+# Ignore IDE files
+.vscode/
+.idea/
