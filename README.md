@@ -57,13 +57,13 @@ python main.py
 py main.py
 ```
 ---
-
 ## 🧠 How It Works
-- Record samples for each person in the dataset (data/person_name_folder).
-- Train model → creates model.pkl.
+- Record samples for each person in the dataset (`data/person_name_folder`).
+- Train model → creates `model.pkl`.
 - Test recognition → identifies who is speaking based on trained data.
-- ⚠️ The Test Recognition button is disabled until a trained model exists.
----
+
+⚠️ **Note:** The **Test Recognition** button is disabled until a trained model exists.
+
 
 ## 🧰 Dependencies
 - customtkinter
