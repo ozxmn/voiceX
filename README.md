@@ -38,7 +38,7 @@ voice_recognition/
 
 1️⃣ Download
 ```text
-git clone https://github.com/wqois/voice_recognition.git
+git clone https://github.com/ozxmn/voice_recognition.git
 cd voice_recognition
 ```
 
