@@ -1,4 +1,4 @@
-# Voice Recognition App
+# Voice recognition app
 
 Python voice recognition system using ML.  
 
@@ -13,7 +13,7 @@ Python voice recognition system using ML.
 
 ---
 
-## Project Structure
+## Project structure
 ```text
 voice_recognition/
 ├── main.py              # Entry point
@@ -33,7 +33,7 @@ voice_recognition/
 └── README.md            # Project documentation
 ```
 ---
-## Setup Instructions
+## Setup
 (*type all of this in the VS Code terminal*)
 
 1️⃣ Download
@@ -42,7 +42,7 @@ git clone https://github.com/ozxmn/voice_recognition.git
 cd voice_recognition
 ```
 
-2️⃣ Install Dependencies
+2️⃣ Install dependencies
 ```text
 pip install -r requirements.txt
 ```
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```text
 py -m pip install -r requirements.txt
 ```
-3️⃣ Run the App
+3️⃣ Run the app
 ```text
 python main.py
 ```
