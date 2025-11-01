@@ -39,6 +39,7 @@ voice_recognition/
 1️⃣ Download
 ```text
 git clone https://github.com/ozxmn/voice_recognition.git
+
 cd voice_recognition
 ```
 
@@ -46,17 +47,10 @@ cd voice_recognition
 ```text
 pip install -r requirements.txt
 ```
-*if it's not working, try
-```text
-py -m pip install -r requirements.txt
-```
+
 3️⃣ Run the app
 ```text
 python main.py
-```
-*if it's not working, try
-```text
-py main.py
 ```
 ---
 ## How it works
