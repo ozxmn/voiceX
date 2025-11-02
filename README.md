@@ -1,6 +1,6 @@
 # Voice recognition app
 
-![hippo]([https://jumpshare.com/share/EBwrzIyK0rOMvjF5EtVa](https://gifyu.com/image/b3ZDa))
+![]([https://jumpshare.com/share/EBwrzIyK0rOMvjF5EtVa](https://gifyu.com/image/b3ZDa))
 
 Python voice recognition system using ML.  
 
