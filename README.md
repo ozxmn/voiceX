@@ -74,10 +74,12 @@ python main.py
 
 ## Gallery
 **Start**
+
 ![](https://github.com/ozxmn/previews/blob/main/IMG_3742.jpeg)
 
 
 **Recording**
+
 ![](https://github.com/ozxmn/previews/blob/main/IMG_3745.jpeg)
 
 ![](https://github.com/ozxmn/previews/blob/main/IMG_3748.jpeg)
@@ -86,8 +88,10 @@ python main.py
 
 
 **Training**
+
 ![](https://github.com/ozxmn/previews/blob/main/IMG_3750.jpeg)
 
 
 **Voice recognition**
+
 ![](https://github.com/ozxmn/previews/blob/main/IMG_3751.jpeg)
