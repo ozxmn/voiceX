@@ -40,7 +40,7 @@ voice_recognition/
 
 1️⃣ Download
 ```text
-git clone https://github.com/ozxmn/voice_recognition.git
+git clone https://github.com/ozxmn/voice_reco.git
 
 cd voice_recognition
 ```
