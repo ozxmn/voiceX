@@ -3,8 +3,7 @@
 <p align="center">
   <img src="https://github.com/ozxmn/previews/blob/main/reco.gif" alt="Demo" width="100%">
 </p>
-Python voice recognition system using ML.  
-
+A desktop application useful for teachers and examiners to recognize the voices of students during both the lessons and exams. Useful to analyze student answers on the lessons and prevent cheating on exams.
 ---
 
 ## Features
